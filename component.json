@@ -1,0 +1,15 @@
+{
+  "name": "source-code-medium",
+  "repo": "typefaces/source-code-medium",
+  "description": "The Source Code medium typeface.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ],
+  "fonts": [
+    "fonts/source-code-medium.eot",
+    "fonts/source-code-medium.ttf",
+    "fonts/source-code-medium.woff"
+  ]
+}
