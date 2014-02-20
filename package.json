@@ -1,0 +1,10 @@
+{
+  "name": "typefaces-source-code-medium",
+  "description": "The Source Code medium typeface.",
+  "version": "0.0.1",
+  "styles": [
+    "index.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
